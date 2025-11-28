@@ -1,0 +1,61 @@
+# PRISM v1.0 - Git Ignore Rules
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Claude Code
+.claude/settings.local.json
+.claude/cache/
+.claude/logs/
+
+# Conversation Privacy (optional - uncomment if conversations contain sensitive data)
+# PRISM-CONVOS/*.md
+# !PRISM-CONVOS/00-CONVO-LOGS.md
+
+# Data Privacy (uncomment to ignore user work products)
+# data/items/
+# data/prds/
+# data/roadmaps/
+# data/metrics/
+# data/retrospectives/
+# data/scores/
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+*.cache
+
+# Node modules (if any JS tooling added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if any Python tooling added later)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

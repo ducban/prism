@@ -23,18 +23,23 @@ PRISM is an AI-powered PM capability toolkit that provides on-demand product man
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url> prism
+   git clone https://github.com/ducban/prism.git prism
    cd prism
    ```
 
-2. Open in Claude Code:
+2. Open Claude Code:
    ```bash
-   code .
+   claude
    ```
 
-3. Start using slash commands:
-   ```
+3. Start using a slash command:
+   ```bash
    /assist I need to prioritize features for Q2
+   ```
+
+   Or, use the below slash command for the user guide with some real-world examples:
+   ```bash
+   /prism-help
    ```
 
 That's it! No configuration needed.
@@ -45,8 +50,8 @@ That's it! No configuration needed.
 
 ### The PRISM Philosophy
 
-**Traditional approach**: "Read this 50-page framework document"
-**PRISM approach**: Claude reads it, you get synthesized guidance + keywords for deeper research
+* **Traditional approach**: "Read this 50-page framework document"
+* **PRISM approach**: Claude reads it, you get synthesized guidance + keywords for deeper research
 
 ```
 You ask: "How do I prioritize features?"
@@ -74,7 +79,7 @@ You get: Direct guidance + ability to learn more on your own
 
 ### Smart Assistant
 
-**`/assist [description]`**
+* **`/assist [description]`**
 AI-powered framework navigator that analyzes your scenario and provides synthesized guidance from relevant frameworks.
 
 ```
@@ -85,22 +90,17 @@ AI-powered framework navigator that analyzes your scenario and provides synthesi
 
 ### Scenario Commands
 
-**`/scenario:feedback`** - Giving/receiving effective feedback
-**`/scenario:prioritize`** - Feature prioritization
-**`/scenario:chart`** - Data visualization guidance
-**`/scenario:interview`** - PM interview preparation
-**`/scenario:launch`** - Product launch & GTM planning
-**`/scenario:churn`** - Churn analysis & retention
-**`/scenario:pmf`** - Product-Market Fit validation
-
-### Git Helpers
-
-**`/gh:commit`** - Analyze changes and create commit
-**`/gh:init`** - Initialize git repository
+* **`/scenario:feedback`** - Giving/receiving effective feedback
+* **`/scenario:prioritize`** - Feature prioritization
+* **`/scenario:chart`** - Data visualization guidance
+* **`/scenario:interview`** - PM interview preparation
+* **`/scenario:launch`** - Product launch & GTM planning
+* **`/scenario:churn`** - Churn analysis & retention
+* **`/scenario:pmf`** - Product-Market Fit validation
 
 ### Help & Guidance
 
-**`/prism-help`** - First-time user guide with real-world examples (start here if you're new!)
+* **`/prism-help`** - First-time user guide with real-world examples (start here if you're new!)
 
 ---
 

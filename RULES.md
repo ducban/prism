@@ -323,7 +323,7 @@ When using a framework, Claude MUST:
 
 ## 💬 Slash Command Rules
 
-### Available Commands (10 Total)
+### Available Commands (11 Total)
 
 **Smart Assistant**:
 - `/assist [description]` - AI framework navigator
@@ -340,6 +340,9 @@ When using a framework, Claude MUST:
 **Git Helpers**:
 - `/gh:commit` - Git commit helper
 - `/gh:init` - Git initialization
+
+**Help & Guidance**:
+- `/prism-help` - First-time user guide with real-world examples
 
 ### Command Behavior Requirements
 

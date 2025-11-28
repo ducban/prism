@@ -99,6 +99,10 @@ AI-powered framework navigator that analyzes your scenario and provides synthesi
 **`/gh:commit`** - Analyze changes and create commit
 **`/gh:init`** - Initialize git repository
 
+### Help & Guidance
+
+**`/prism-help`** - First-time user guide with real-world examples (start here if you're new!)
+
 ---
 
 ## Framework Library

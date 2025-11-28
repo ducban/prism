@@ -281,7 +281,7 @@ related_items: []
 
 ## Slash Commands
 
-### Available Commands (10 total)
+### Available Commands (11 total)
 
 **Smart Assistant**:
 - `/assist [description]` - AI-powered framework navigator that reads frameworks silently and provides synthesized guidance
@@ -298,6 +298,9 @@ related_items: []
 **Git Helpers**:
 - `/gh:commit` - Analyze changes and create commit
 - `/gh:init` - Initialize git repository
+
+**Help & Guidance**:
+- `/prism-help` - First-time user guide with real-world examples
 
 ### Command Behavior
 

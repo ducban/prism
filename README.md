@@ -2,7 +2,7 @@
 
 **Product Management Capability Toolkit for Claude Code**
 
-*Lăng kính: Taking complex PM problems (white light) and breaking them into understandable components (rainbow colors)*
+*A prism to help Product Managers see the full spectrum of possibilities within a problem*
 
 ---
 

@@ -21,6 +21,7 @@ ease help on this Anh Ban ui, sắp tới vào ngày 30/11 BTC tụi em có tổ
 bài thi Product Test... |
 | 2025-11-25 | issue-tree-problem-solving-simulation | 2025-11-25-issue-tree-problem-solving-simulation.md | active | I want to simulate the problem-solving process using issue tree with real-world example, can you help? |
 | 2025-11-25 | product-led-growth-company-example | 2025-11-25-product-led-growth-company-example.md | active | I want an example from a top product company (Duolingo or LinkedIn) and their famous product-led growth feature |
+| 2025-11-28 | update-prism-description | 2025-11-28-update-prism-description.md | completed | Use this description `A prism to help Product Managers see the full spectrum of possibilities within... |
 
 ## Search Index
 ```
@@ -30,6 +31,7 @@ pmf-prep-guide:2025-11-24-pmf-prep-guide.md
 pm-test-design:2025-11-24-pmf-test-design.md
 issue-tree-problem-solving-simulation:2025-11-25-issue-tree-problem-solving-simulation.md
 product-led-growth-company-example:2025-11-25-product-led-growth-company-example.md
+update-prism-description:2025-11-28-update-prism-description.md
 ```
 
 ## Rules for Claude Code

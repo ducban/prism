@@ -11,7 +11,7 @@
 
 PRISM is an **AI-powered PM capability toolkit** that provides on-demand product management competencies through Claude Code slash commands.
 
-**Concept**: Taking complex PM problems (white light) and breaking them into understandable components (rainbow colors) - like a prism with light.
+**Concept**: A prism to help Product Managers see the full spectrum of possibilities within a problem.
 
 **Core Philosophy**:
 - **Capability over complexity**: Frameworks are tools, not rules

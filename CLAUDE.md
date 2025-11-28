@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 
 **PRISM** (Lăng kính) is an AI-powered PM capability toolkit that provides on-demand product management competencies through Claude Code slash commands.
 
-**Concept**: Taking complex PM problems (white light) and breaking them into understandable components (rainbow colors).
+**Concept**: A prism to help Product Managers see the full spectrum of possibilities within a problem.
 
 **Core Philosophy**: Independent capabilities, user freedom, no workflow enforcement. Each capability works standalone without prerequisites.
 

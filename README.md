@@ -319,13 +319,10 @@ prism/
 ├── data/                      # Your PM work products
 ├── .claude/
 │   ├── commands/              # 10 slash commands
-│   └── product-foundation/    # 45 frameworks (hidden)
 ├── CLAUDE.md                  # Claude Code guidance
 ├── RULES.md                   # Detailed project rules
 └── README.md                  # This file
 ```
-
-**Note**: Frameworks in `.claude/product-foundation/` are hidden - Claude reads them, you get synthesized insights.
 
 ---
 

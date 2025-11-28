@@ -8,13 +8,12 @@
 
 ## What is PRISM?
 
-PRISM is an AI-powered PM capability toolkit that provides on-demand product management competencies through Claude Code slash commands. Get expert PM guidance synthesized from 45 comprehensive frameworks - without reading lengthy documentation.
+PRISM is an AI-powered PM capability toolkit that provides on-demand product management competencies through Claude Code slash commands. Get expert PM guidance before reading lengthy documentation.
 
-**Version**: 1.0
-**Platform**: Claude Code
-**Frameworks**: 45 comprehensive PM frameworks
-**Commands**: 10 slash commands
-**Status**: ✅ Production Ready
+* **Version**: 1.0
+* **Platform**: Claude Code
+* **Commands**: 10 slash commands
+* **Status**: ✅ Production Ready
 
 ---
 

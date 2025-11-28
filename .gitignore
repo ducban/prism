@@ -59,3 +59,8 @@ ENV/
 dist/
 build/
 *.egg-info/
+
+# Project Documentation (removed from tracking)
+FUTURE-ROADMAP.md
+REVAMPING.md
+Product Test _ Official _ H4TF_PM 25.md

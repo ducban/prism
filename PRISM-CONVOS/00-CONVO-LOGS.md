@@ -13,25 +13,10 @@
 
 | Date | Topic | File | Status | Preview |
 |------|-------|------|--------|---------|
-| 2025-11-24 | project-restructure | 2025-11-24-project-restructure.md | active | I want to change the name of this project from productify to root... |
-
-| 2025-11-24 | pmf-prep-guide | 2025-11-24-pmf-prep-guide.md | active | CEO đang hỏi về product-market fit và bạn có cuộc gặp với nhà đầu tư vào tuần tới... |
-| 2025-11-24 | pm-test-design | 2025-11-24-pmf-test-design.md | completed | Pl
-ease help on this Anh Ban ui, sắp tới vào ngày 30/11 BTC tụi em có tổ chức
-bài thi Product Test... |
-| 2025-11-25 | issue-tree-problem-solving-simulation | 2025-11-25-issue-tree-problem-solving-simulation.md | active | I want to simulate the problem-solving process using issue tree with real-world example, can you help? |
-| 2025-11-25 | product-led-growth-company-example | 2025-11-25-product-led-growth-company-example.md | active | I want an example from a top product company (Duolingo or LinkedIn) and their famous product-led growth feature |
-| 2025-11-28 | update-prism-description | 2025-11-28-update-prism-description.md | completed | Use this description `A prism to help Product Managers see the full spectrum of possibilities within... |
 
 ## Search Index
 ```
-project-restructure:2025-11-24-project-restructure.md
 
-pmf-prep-guide:2025-11-24-pmf-prep-guide.md
-pm-test-design:2025-11-24-pmf-test-design.md
-issue-tree-problem-solving-simulation:2025-11-25-issue-tree-problem-solving-simulation.md
-product-led-growth-company-example:2025-11-25-product-led-growth-company-example.md
-update-prism-description:2025-11-28-update-prism-description.md
 ```
 
 ## Rules for Claude Code
@@ -51,12 +36,6 @@ update-prism-description:2025-11-28-update-prism-description.md
 3. Include YAML frontmatter (see RULES.md for template)
 4. Add entry to this index file immediately
 5. Update search index
-
-### File Clarification Notes
-
-- `pmf-prep-guide.md`: PMF preparation guide (historical reference)
-- `pm-test-design.md`: PM test design conversation
-These files serve different purposes and are not duplicates.
 
 ### File Naming Convention
 - Format: `yyyy-mm-dd-topic-name.md`

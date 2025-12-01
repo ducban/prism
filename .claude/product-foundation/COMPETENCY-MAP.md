@@ -642,14 +642,57 @@ This document maps real-world PM scenarios to required competencies and relevant
 
 **Recommended Frameworks**:
 1. **PRIMARY**: [TRAVELTECH-optimization-strategies.md](./TRAVELTECH-optimization-strategies.md)
-   - WCAG compliance guidelines
-   - Inclusive design strategies
-   - Multi-language implementation
+    - WCAG compliance guidelines
+    - Inclusive design strategies
+    - Multi-language implementation
 2. **SECONDARY**: [FINTECH-financial-inclusion.md](./FINTECH-financial-inclusion.md)
-   - Economic inclusion principles
-   - Accessibility best practices
+    - Economic inclusion principles
+    - Accessibility best practices
 
 **Expected Outcome**: Fully accessible and inclusive travel platform serving diverse user needs
+
+---
+
+#### Scenario: "I need to assess my PM team's competencies"
+**Situation**: Evaluating current PM skills and identifying development needs
+**Competencies Needed**:
+- Competency assessment
+- Skills evaluation
+- Career development planning
+- Performance management
+
+**Recommended Frameworks**:
+1. **PRIMARY**: [ASSESSMENT-pm-competency-framework.md](./ASSESSMENT-pm-competency-framework.md)
+    - 7 competency areas assessment
+    - Level-based evaluation criteria
+    - Development planning templates
+2. **SECONDARY**: [PEOPLE-feedback-framework.md](./PEOPLE-feedback-framework.md)
+    - 360-degree feedback collection
+3. **SECONDARY**: [PEOPLE-one-on-one-framework.md](./PEOPLE-one-on-one-framework.md)
+    - Individual development discussions
+
+**Expected Outcome**: Clear competency assessment with personalized development plans
+
+---
+
+#### Scenario: "I'm hiring a new PM and need evaluation criteria"
+**Situation**: Establishing fair and comprehensive PM candidate assessment
+**Competencies Needed**:
+- Interviewing and evaluation
+- Competency-based assessment
+- Skills validation
+- Cultural fit assessment
+
+**Recommended Frameworks**:
+1. **PRIMARY**: [ASSESSMENT-pm-competency-framework.md](./ASSESSMENT-pm-competency-framework.md)
+    - Structured competency evaluation
+    - Level-appropriate expectations
+    - Assessment rubrics
+2. **SECONDARY**: [PEOPLE-interviewing-framework.md](./PEOPLE-interviewing-framework.md)
+    - Interview question frameworks
+    - Behavioral assessment techniques
+
+**Expected Outcome**: Comprehensive PM hiring criteria with fair evaluation process
 
 ---
 
@@ -734,6 +777,9 @@ This document maps real-world PM scenarios to required competencies and relevant
 | "travel", "booking", "trip planning" | TRAVELTECH-industry-overview.md, TRAVELTECH-optimization-strategies.md |
 | "conversion", "booking funnel", "travel optimization" | TRAVELTECH-optimization-strategies.md |
 | "accessibility", "inclusion", "WCAG" | TRAVELTECH-optimization-strategies.md, FINTECH-financial-inclusion.md |
+| "assessment", "competency", "evaluation", "PM skills" | ASSESSMENT-pm-competency-framework.md |
+| "hiring", "interview", "candidate evaluation" | ASSESSMENT-pm-competency-framework.md, PEOPLE-interviewing-framework.md |
+| "development", "career growth", "skill building" | ASSESSMENT-pm-competency-framework.md |
 
 ---
 
@@ -753,7 +799,7 @@ OUTPUT: Targeted framework guidance
 ---
 
 **Last Updated**: 2025-11-21
-**Total Scenarios Mapped**: 20+
-**Total Competencies**: 14
-**Total Frameworks**: 37
+**Total Scenarios Mapped**: 22+
+**Total Competencies**: 15
+**Total Frameworks**: 38
 **Status**: Active

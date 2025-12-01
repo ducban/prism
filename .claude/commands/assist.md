@@ -73,11 +73,14 @@ Look for keyword matches in SCENARIO-INDEX.md to identify relevant frameworks:
 - "fintech", "payment", "financial inclusion" → Read `.claude/product-foundation/FINTECH-*` frameworks
 - "rural markets", "banking access", "underserved" → Read `.claude/product-foundation/FINTECH-financial-inclusion.md`
 - "business models", "revenue", "monetization" → Read `.claude/product-foundation/FINTECH-business-models.md`
-- "travel", "booking", "trip planning" → Read `.claude/product-foundation/TRAVELTECH-*` frameworks
-- "conversion", "booking funnel" → Read `.claude/product-foundation/TRAVELTECH-optimization-strategies.md`
-- "UX research", "user testing" → Read `.claude/product-foundation/UXRESEARCH-methodologies.md`
-- "UI design", "interface" → Read `.claude/product-foundation/UIOPTIMIZATION-strategies.md`
-- etc.
+ - "travel", "booking", "trip planning" → Read `.claude/product-foundation/TRAVELTECH-*` frameworks
+ - "conversion", "booking funnel" → Read `.claude/product-foundation/TRAVELTECH-optimization-strategies.md`
+ - "UX research", "user testing" → Read `.claude/product-foundation/UXRESEARCH-methodologies.md`
+ - "UI design", "interface" → Read `.claude/product-foundation/UIOPTIMIZATION-strategies.md`
+ - "assessment", "competency", "evaluation", "PM skills" → Read `.claude/product-foundation/ASSESSMENT-pm-competency-framework.md`
+ - "hiring", "interview", "candidate evaluation" → Read `.claude/product-foundation/ASSESSMENT-pm-competency-framework.md`, `.claude/product-foundation/PEOPLE-interviewing-framework.md`
+ - "development", "career growth", "skill building" → Read `.claude/product-foundation/ASSESSMENT-pm-competency-framework.md`
+ - etc.
 
 **IMPORTANT**: Read the matched frameworks silently. DO NOT tell the user to read files. Synthesize the content and provide direct guidance.
 
@@ -211,6 +214,13 @@ User: "How do I make better product decisions?"
 → Ask: "What type of decisions? Examples: prioritization, strategy, validation, trade-offs"
 → Then read relevant framework(s) and provide synthesized guidance
 
+### Pattern 5: Team Assessment
+User: "I need to evaluate my PM team's competencies"
+→ Read `.claude/product-foundation/ASSESSMENT-pm-competency-framework.md` silently
+→ Provide: 7 competency areas assessment, level-based evaluation, development planning
+→ Keywords: "PM competency framework", "360-degree feedback", "skill gap analysis"
+→ Time estimate: 4-6 weeks for full assessment cycle
+
 ## Important Guidelines
 
 ✅ **Read frameworks silently** - never tell users to read files
@@ -255,6 +265,7 @@ Synthesize content from:
 - Interviewing frameworks
 - Influence without authority
 - SWOT analysis
+- PM competency assessment (for team development)
 
 ## Fallback Response
 

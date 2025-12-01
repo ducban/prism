@@ -12,7 +12,7 @@ PRISM is an AI-powered PM capability toolkit that provides on-demand product man
 
 * **Version**: 1.0
 * **Platform**: Claude Code
-* **Commands**: 10 slash commands
+* **Commands**: 11 slash commands
 * **Status**: ✅ Production Ready
 
 ---
@@ -106,7 +106,7 @@ AI-powered framework navigator that analyzes your scenario and provides synthesi
 
 ## Framework Library
 
-PRISM includes 45 comprehensive PM frameworks across 15 categories:
+PRISM includes 46 comprehensive PM frameworks across 16 categories:
 
 ### Discovery & Research (6)
 - Jobs-to-Be-Done (JTBD)
@@ -167,6 +167,9 @@ PRISM includes 45 comprehensive PM frameworks across 15 categories:
 - Interviewing Framework
 - Feedback Framework
 - One-on-One Framework
+
+### Assessment (1)
+- PM Competency Framework
 
 ### Communication (2)
 - Stakeholder Management
@@ -372,7 +375,7 @@ PRISM is built for PMs, but useful for:
 
 ### PRISM v1.0 (Current - 2025-11-28)
 - Claude Code only (production-ready)
-- 45 frameworks, 10 commands
+- 46 frameworks, 11 commands
 - Framework synthesis approach
 - Hidden framework library
 - Streamlined structure
